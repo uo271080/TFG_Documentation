@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Filter","Msg"],"fn":["getYashe","getYate","scrollToElement","setYashe","setYate"],"mod":["api","examples_manager"],"struct":["App","FilterIter","ModalInfo","State"]};

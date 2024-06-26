@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Msg"],"fn":["exportCsv"],"struct":["Props","PropsWrapper","ResultTable"]};

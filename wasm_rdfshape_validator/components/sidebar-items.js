@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["editors","header","modal","result_table","search_bar"]};
